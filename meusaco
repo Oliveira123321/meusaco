@@ -42,6 +42,7 @@
 .toolbar-3_r2xA .icon-2xnN2Y {
   width: 22px;
   height: 22px;
+  left: 10px;
 }
 .theme-dark .toolbar-3_r2xA .icon-18rqoe {
   color: var(--interactive-normal);
