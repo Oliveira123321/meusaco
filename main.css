@@ -1731,10 +1731,6 @@ svg.slider-32CRPX svg, .bd-switch-slider>svg {
 .connected-2MF1ew {
   border-color: var(--accent-color);
 }
-/* outdated warning */
-:root {
-  --outdated-122: block;
-}
 .wrapper-3Hk9OB {
   z-index: 1;
   background-color: var(--background-primary);
